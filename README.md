@@ -6,7 +6,7 @@ Original Homepage looks like this:
 ![Original Homepage](https://kronaemmanuel.sirv.com/Crossover/original-homepage.png)
 
 The redesign looks like this:
-![Redesigned Homepage](https://kronaemmanuel.sirv.com/Crossover/redesigned-homepage.png)
+![Redesigned Homepage](/change_pc.jpg)
 
 Original Homepage on mobile looks like this:
 
@@ -14,7 +14,7 @@ Original Homepage on mobile looks like this:
 
 Redesigned Homepage on mobile:
 
-![Redesigned Homepage Mobile](https://kronaemmanuel.sirv.com/Crossover/redesigned-homepage-mobile.png)
+![Redesigned Homepage Mobile]()
 
 Original Homepage on mobile with Menu open:
 
@@ -22,7 +22,7 @@ Original Homepage on mobile with Menu open:
 
 Redesigned Homepage on mobile with Menu open:
 
-![Redesigned Homepage Mobile Menu Open](https://kronaemmanuel.sirv.com/Crossover/redesigned-homepage-mobile-menu-open.png)
+![Redesigned Homepage Mobile Menu Open](/change_mobile.jpg)
 
 ## Authors
 
