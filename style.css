@@ -107,7 +107,7 @@ body{
     height: 2px;
     left: 50%;
     position: relative;
-    background: #FF5733;
+    background: #F45432;
     transition: width 0.3s ease 0s,left 0.3s ease 0s;
     width: 0;
 }
@@ -169,7 +169,7 @@ body{
 .hero-button a{
     text-decoration: none;
     color: #fff;
-    background-color: #FF5733 ;
+    background-color: #F45432 ;
     margin: 20px;
     padding: 20px 30px;
     border-radius: 5px;
