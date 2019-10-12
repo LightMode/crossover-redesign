@@ -14,7 +14,7 @@ Original Homepage on mobile looks like this:
 
 Redesigned Homepage on mobile:
 
-![Redesigned Homepage Mobile]()
+![Redesigned Homepage Mobile](/change_mobile1.jpg)
 
 Original Homepage on mobile with Menu open:
 
@@ -22,7 +22,7 @@ Original Homepage on mobile with Menu open:
 
 Redesigned Homepage on mobile with Menu open:
 
-![Redesigned Homepage Mobile Menu Open](/change_mobile.jpg)
+![Redesigned Homepage Mobile Menu Open](/change_mobile2.jpg)
 
 ## Authors
 
