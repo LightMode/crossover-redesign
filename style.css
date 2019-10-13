@@ -99,6 +99,22 @@ body{
     color: inherit;
     text-transform: uppercase;
 }
+.navbar-menu ul li a:after{
+    background: none repeat scroll 0 0 transparent;
+    bottom: 20px;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: relative;
+    background: #F45432;
+    transition: width 0.3s ease 0s,left 0.3s ease 0s;
+    width: 0;
+}
+.navbar-menu ul li a:hover:after{
+    width: 100%;
+    left: 0;
+}
 
 .hero{
     width: 100%;
@@ -153,7 +169,7 @@ body{
 .hero-button a{
     text-decoration: none;
     color: #fff;
-    background-color: #22aae4;
+    background-color: #F45432 ;
     margin: 20px;
     padding: 20px 30px;
     border-radius: 5px;
